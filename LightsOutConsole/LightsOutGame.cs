@@ -29,7 +29,7 @@ namespace LightsOutConsole
 
         public LightsOutGame()
         {
-            GridSize = -1;
+            GridSize = 3;
         }
 
         public void NewGame()

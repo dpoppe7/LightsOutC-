@@ -1,0 +1,15 @@
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.csproj.AssemblyReference.cache
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.AssemblyInfoInputs.cache
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.AssemblyInfo.cs
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.csproj.CoreCompileInputs.cache
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\bin\Debug\net6.0\LightsOutConsole.exe
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\bin\Debug\net6.0\LightsOutConsole.deps.json
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\bin\Debug\net6.0\LightsOutConsole.runtimeconfig.json
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\bin\Debug\net6.0\LightsOutConsole.dll
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\bin\Debug\net6.0\LightsOutConsole.pdb
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.dll
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\refint\LightsOutConsole.dll
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.pdb
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\LightsOutConsole.genruntimeconfig.cache
+C:\Users\dpoppe\source\repos\LightsOutConsole\LightsOutConsole\obj\Debug\net6.0\ref\LightsOutConsole.dll
